@@ -27,6 +27,7 @@ Be patient, this will install all Kali tools (just for the first install, at ima
   - tmux, tmate
   - xterm, zsh
   - zstd
+  - openvpn
   - ltrace, strace
   - vim, less, colordiff, colortail
   - strace ltrace
